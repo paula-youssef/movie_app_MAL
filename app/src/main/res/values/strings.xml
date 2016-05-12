@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="title_activity_movie_detail">MovieDetail</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="action_refresh" transable="false">refresh</string>
+    <string name="action_favourite" transable="false">favourite</string>
+    <!-- Label for the location preference [CHAR LIMIT=30] -->
+    <string name="pref_sort_label">Sort Order</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_key" translatable="false">sort</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_default" translatable="false">popular</string>
+    <string name="title_activity_reviews">ReviewsActivity</string>
+    <string name="title_activity_trailer">trailerActivity</string>
+
+</resources>
